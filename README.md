@@ -3,7 +3,7 @@
 
 **Deadline:** Sunday Apr 6, 2024 midnight
 
-**Submission instructions:** Submit the `.ino` files, for all the tasks in the format `taskX.ino`, where `X` is the task number. Submission tab will be made available on LMS. For the first take home task (Task 2), rename your vidoe to `Task2`.
+**Submission instructions:** Submit the `.ino` files, for all the tasks in the format `taskX.ino`, where `X` is the task number. Submission tab will be made available on LMS. For the first take home task (Task 2), rename your video to `Task2`.
 
 ## In-lab tasks:
 ### Task 1 - Web-server with ESP32:
