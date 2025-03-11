@@ -2,8 +2,8 @@
 #include <HTTPClient.h>
 
 // Change these to match your WiFi network
-const char* ssid = "Redmi";
-const char* password = "simple23";
+const char* ssid = "";
+const char* password = "";
 
 // Change this to match your local server's IP address
 const char* serverIP = "192.168.162.130";
