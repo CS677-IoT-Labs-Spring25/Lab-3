@@ -1,7 +1,7 @@
 # LAB 3 - Networking and Communication
 **Total tasks:** 3 (1 in-lab, 2 take-home)
 
-**Deadline:** Sunday Apr 6, 2024 midnight
+**Deadline:** Monday March 17
 
 **Submission instructions:** Submit the `.ino` files, for all the tasks in the format `taskX.ino`, where `X` is the task number. Submission tab will be made available on LMS. For the first take home task (Task 2), rename your video to `Task2`.
 
