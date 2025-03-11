@@ -15,6 +15,12 @@ The RGB should have three buttons for red, green and blue. So, if red is on, it 
 
 Lastly, using the mpu-6050, the web-page should also have a button to get the temperature reading from it. So, if the button is pressed the web-page should display the current temp.
 
+Libraries:
+
+```cpp
+#include <WiFi.h>
+#include <WebServer.h>
+```
 
 ## Take-home tasks:
 ### Task 2 - Putting ESP32 on the internet:
